@@ -18,6 +18,7 @@ JVM-Hook is a helper library for creating native applications that interact with
 
 - `Have Java Development Kit (JDK) installed.`
 - `C++ compiler that supports C++11 or later.`
+- `Minhook (assuming you do not use your own library)`
 
 ### <b>Installation</b>
 
